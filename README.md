@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! Sou May Fernandes e seja bem-vindo(a) ao meu GitHub! 👋
+Desde 2010 atuo na área de testes de software, sou bacharel em Ciência da Computação, certificada CTAL-Test Automation Engineer e mais algumas outras do BSTQB! Tenho experiência com testes manuais e automatizados de desktop, web, API e micro-serviços, mas minha especialidade e paixão são os testes de micro-serviços e API! Atualmente trabalho com desenvolvimento e implantação de testes automatizados com Robot Framework e *Continuous Testing* pela [Prime Control](https://www.primecontrol.com.br/).
 
 <!--
 **mayribeirofernandes/mayribeirofernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
