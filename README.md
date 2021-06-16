@@ -18,6 +18,8 @@ Desde 2010 atuo na área de testes de software, sou bacharel em Ciência da Comp
   
 ## 📚 Publicações
 - [Livro: Jornada Ágil de Qualidade - 2020 - Co-Autora - Capítulo 15. ATDD](https://www.google.com.br/books/edition/Jornada_%C3%81gil_de_Qualidade/z5bIDwAAQBAJ?hl=pt-BR&gbpv=0)
+- [Curso Robot Framework Básico](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/?referralCode=07AE210B34B27F2BA63C)
+- [Curso Robot Framework Avançado](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/?referralCode=D8A16D5A4F4A3660792B)
 
 ## 🎙️ Talks, Palestras e Workshops
 - [Automação de Testes com Robot Framework - ASSESPRO-PR - 2021](https://www.slideshare.net/MayaraRFernandesCBTS/assespro-prworkshoprobot-framework)
